@@ -30,7 +30,7 @@ Este programa se conecta con SAP y HANA para realizar diversas tareas en los sig
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/AlmanzaSistemas/tomate.git
+   git clone https://github.com/GrupoAlmanza/tomate.git
    ```
 2. Abre el proyecto en Visual Studio.
 3. Restaura las dependencias necesarias ejecutando en la Consola del Administrador de Paquetes:
