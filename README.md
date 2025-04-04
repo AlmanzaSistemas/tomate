@@ -1,4 +1,4 @@
-# tomate
+# Tomate POST
 # Conector SAP & HANA - Punto de Venta
 
 Este programa se conecta con SAP y HANA para realizar diversas tareas en los siguientes módulos:
